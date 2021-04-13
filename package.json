@@ -1,0 +1,20 @@
+{
+  "name": "interactions",
+  "version": "1.0.0",
+  "description": "interactions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "hussein",
+  "license": "ISC",
+  "dependencies": {
+    "aws-cli": "0.0.2",
+    "aws-cli-js": "^2.2.1",
+    "aws-sdk": "^2.884.0",
+    "dateformat": "^4.5.1",
+    "math": "0.0.3",
+    "mongodb": "^3.6.6",
+    "uuid": "^8.3.2"
+  }
+}
