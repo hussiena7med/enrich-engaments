@@ -1,2 +1,2 @@
-# enrich-engaments
-enrich engaments
+to start service please just run :
+npm start
